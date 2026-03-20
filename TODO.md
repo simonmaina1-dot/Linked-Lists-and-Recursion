@@ -8,7 +8,7 @@
 4. [x] Edit main.py: Add demo code with insertions, operations, prints.
 5. [x] Run main: `python main.py` to demo. Output matches expectations (sum=35, search correct, reverse works).
 6. [x] Edit README.md: Add run instructions, examples, recursion explanations.
-7. [ ] Create feature branch, commit changes, push, open PR with `gh pr create`.
+7. [x] Create feature branch, commit changes, push, open PR with `gh pr create`.
 8. [ ] [DONE] Merge PR after review.
 
 Track progress by marking [x] as completed.
